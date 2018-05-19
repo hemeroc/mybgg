@@ -1,17 +1,17 @@
 {
     "project": {
         "name": "mybgg",
-        "title": "Emil's boardgames"
+        "title": "Hemerocs BGG"
     },
     "boardgamegeek": {
-        "user_name": "EmilStenstrom",
+        "user_name": "severusdrakone",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "JS9TM39YJZ",
-        "api_key_search_only": "0afdcd4e518ebd867fa3d2484bbfd0de",
+        "app_id": "W9JMS8FGQQ",
+        "api_key_search_only": "e6fcb4053949a42a6a36e6a8698e3342",
         "index_name": "mybgg",
         "hits_per_page": 50
     }
